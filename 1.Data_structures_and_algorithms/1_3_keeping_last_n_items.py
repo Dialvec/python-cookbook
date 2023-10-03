@@ -95,6 +95,5 @@ if __name__ == '__main__':
                 print( option, '= Invalid option' )
         
         _ = input( 'Press enter to continue.' )
-        print( '\n' )
         print( '-'*50 )
         print( '\n'*2 )
